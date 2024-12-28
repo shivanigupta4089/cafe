@@ -1,0 +1,6 @@
+# Ignore unnecessary files and folders
+.git
+node_modules
+tmp
+*.log
+*.DS_Store
